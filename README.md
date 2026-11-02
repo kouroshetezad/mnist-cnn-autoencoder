@@ -34,7 +34,7 @@ numpy
 ## Run
 
 ```bash
-python neuralnetwork.py
+python mnist-cnn-autoencoder.py
 ```
 
 The MNIST dataset is downloaded automatically into `./data`. A CUDA GPU is used automatically when available.
